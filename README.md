@@ -1,4 +1,4 @@
-# NFT-Fan-Page
+# NFT_Fan_Page
 
 **Experience a beautifully styled NFT fan page showcasing stunning visuals and information about your favorite NFT collections.**
 
@@ -8,6 +8,9 @@ This project was crafted using:
 
 - HTML
 - CSS
+
+## Link
+https://ferdereddie.github.io/NFT_Fan_Page/
 
 ## Screenshots
 
