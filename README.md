@@ -9,6 +9,9 @@ This project was crafted using:
 - HTML
 - CSS
 
+## Link
+https://ferdereddie.github.io/NFT_Fan_Page/
+
 ## Screenshots
 
 ![Form](https://user-images.githubusercontent.com/110486605/218171998-676f123e-8cc9-49dc-a3ab-2263e0b3df69.png)
